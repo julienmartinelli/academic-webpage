@@ -1,24 +1,24 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Julien Martinelli
 
 # Username (this should match the folder name)
-authors:
+authors: julienmartinelli
 - admin
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PhD candidate
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Inria
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: later 
 
 interests:
 - Artificial Intelligence
@@ -27,7 +27,7 @@ interests:
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
+  - course: Change this for test
     institution: Stanford University
     year: 2012
   - course: MEng in Artificial Intelligence
