@@ -22,6 +22,24 @@ organizations:
 bio: later
 
 
+interests:
+- Network Inference
+- Variable Selection
+- Applications in Medicine
+
+education:
+    courses:
+    - course: Master's Degree 2nd year - Random modelling, Finance and Data Science
+      institution: Université de Paris
+      year: 2018
+    - course: Master's Degree 1st year - Applied Mathematics
+      institution: Université de Paris
+      year: 2017
+    - course: Bachelor's Degree - Mathematics
+      institution: Université de Paris
+      year: 2015
+
+
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -36,7 +54,7 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/julienmartinelli
-- icon: soundclound
+- icon: soundcloud
   icon_pack: fab
   link: https://soundcloud.com/julien-martinelli
 # Link to a PDF of your resume/CV from the About widget.

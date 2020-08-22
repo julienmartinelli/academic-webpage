@@ -13,7 +13,7 @@
 #   Latest themes (may require updating): https://sourcethemes.com/academic/themes/
 #   Browse built-in themes in `themes/academic/data/themes/`
 #   Browse user installed themes in `data/themes/`
-theme = "minimal"
+theme = "new_minimal"
 
 # Enable users to switch between day and night mode?
 day_night = true
@@ -100,7 +100,7 @@ address = {street = "1 Rue Honoré d'Estienne d'Orves", city = "Palaiseau", regi
 # coordinates = {latitude = "37.4275", longitude = "-122.1697"}
 
 # Directions for visitors to locate you.
-# directions = "Enter Building 1 and take the stairs to Office 200 on Floor 2"
+directions = "Office 1123, 2nd Floor"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
@@ -295,4 +295,4 @@ plugins_js  = []
 ## Icon Pack Extensions
 ############################
 [icon.pack]
-  ai = false  # Academicons icon pack https://jpswalsh.github.io/academicons/
+  ai = true  # Academicons icon pack https://jpswalsh.github.io/academicons/

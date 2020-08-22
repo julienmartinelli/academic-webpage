@@ -18,24 +18,28 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "PhD student"
-  company = "Inria - Inserm - Ecole Polytechnique"
-  company_url = ""
-  location = "France"
+  title = "PhD Student"
+  company = "Inria EP Lifeware - Inserm U935 - Ecole Polytechnique"
+  location = "Saclay / Villejuif"
   date_start = "2018-10-01"
   date_end = "2021-10-01"
-  description = """
-  Responsibilities include:
-  
-  """
+  description = """Mechanistic model learning from time-series data : application to cancer's chronotherapy"""
 
 [[experience]]
   title = "Intern"
-  company = "Inria"
-  company_url = ""
-  location = "France"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """"""
+  company = "Inria Saclay EP Lifeware"
+  location = "Saclay"
+  date_start = "2018-04-08"
+  date_end = "2018-09-14"
+  description = """Mechanistic model learning from time-series data"""
+
+[[experience]]
+  title = "Intern"
+  company = "Université de Paris"
+  location = "Paris"
+  date_start = "2017-06-01"
+  date_end = "2017-08-01"
+  description = """Random matrix theory and applications to community detection in large graphs"""
+
 
 +++
