@@ -70,9 +70,11 @@ social:
 #   Set this to `[]` or comment out if you are not using People widget.
 ---
 
-I am a PhD student working under supervision of [François Fages](http://lifeware.inria.fr/wiki/Fages/HomePage) and [Annabelle Ballesta](http://annabelle.ballesta.fr/)
+I am a PhD student at both Inria and Inserm, working under supervision of [François Fages](http://lifeware.inria.fr/wiki/Fages/HomePage) and [Annabelle Ballesta](http://annabelle.ballesta.fr/)
 
-* Research: test
+* Research: My PhD focuses on the predicament of learning mechanistic models from time-series data. While the traditional approach in Systems Biology assumes a model and uses the available data to calibrate its parameters, our aim here is
+to develop new ___*Machine Learning techniques* in order to directly learn both the model and its parameters from the observations.
+These techniques are applied to learn interactions between the circadian clock and non invasive biomarkers such as the temperature or rest-activity rhythm, in the context of cancer's chronotherapy.
 
 * Teaching:
     * 2019-2021: Teaching Assistant • 2nd year BSC • Université de Paris
