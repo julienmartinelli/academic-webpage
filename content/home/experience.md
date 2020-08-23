@@ -27,7 +27,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Intern"
-  company = "Inria Saclay EP Lifeware"
+  company = "Inria EP Lifeware"
   location = "Saclay"
   date_start = "2018-04-08"
   date_end = "2018-09-14"
@@ -35,7 +35,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Intern"
-  company = "Université de Paris"
+  company = "Université de Paris - Laboratoire MAP5"
   location = "Paris"
   date_start = "2017-06-01"
   date_end = "2017-08-01"

@@ -36,5 +36,5 @@ publication_types:
 - 1
 abstract: ''
 publication: '*ICML Workshop on Computational Biology*'
-url_pdf: https://hal.archives-ouvertes.fr/hal-02163862
+url_pdf: "files/icmlcb_2019.pdf"
 ---

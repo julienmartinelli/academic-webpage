@@ -37,5 +37,5 @@ publication_types:
 abstract: ''
 publication: "*CMSB'19: Proceedings of the seventeenth international conference on\
   \ Computational Methods for Systems Biology*"
-url_pdf: https://hal.archives-ouvertes.fr/hal-02173721
+url_pdf: "files/cmsb_2019.pdf"
 ---
