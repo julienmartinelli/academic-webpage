@@ -16,7 +16,7 @@ location: Remote
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2021-04-01T17:00:00Z"
+date: "2021-01-04T17:00:00Z"
 # date_end: "2019-05-27T17:00:00Z"
 all_day: false
 

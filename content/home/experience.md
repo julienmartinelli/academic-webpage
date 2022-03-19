@@ -19,11 +19,11 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "PhD Student"
-  company = "Inria EP Lifeware - Inserm U935 - Ecole Polytechnique"
-  location = "Saclay / Villejuif"
+  company = "Inria EP Lifeware - Inserm U900 Syspharma - Ecole polytechnique"
+  location = "Saclay / Saint-Cloud"
   date_start = "2018-10-01"
-  date_end = "2021-10-01"
-  description = """Mechanistic model learning from time-series data : application to cancer's chronotherapy"""
+  date_end = "2022-02-18"
+  description = """On learning mechanistic models from time-series data with application to cancer chronotherapies"""
 
 [[experience]]
   title = "Intern"

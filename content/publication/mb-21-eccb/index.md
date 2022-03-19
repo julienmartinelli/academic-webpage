@@ -16,7 +16,7 @@ tags: []
 categories: []
 date: '2021-01-01'
 # lastmod: 2021-08-22T16:08:09+02:00
-featured: false
+featured: true
 draft: false
 
 # Featured image
@@ -24,7 +24,7 @@ draft: false
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ''
-  focal_point: ''
+  focal_point: 'Center'
   preview_only: false
 
 # Projects (optional).
@@ -39,5 +39,5 @@ publication_types:
 abstract: ''
 publication: "*ECCB'21: Proceedings of the twentieth european conference on\
   \ Computational Biology*"
-url_pdf: "files/eccb_2021_hal.pdf"
+url_pdf: "files/eccb_2021_oup.pdf"
 ---
