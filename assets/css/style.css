@@ -1,0 +1,32 @@
+:root { --maxw: 900px; }
+* { box-sizing: border-box; }
+body { margin: 0; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; color: #222; background: #fff; }
+a { color: #4b2e83; text-decoration: none; }
+a:hover { text-decoration: underline; }
+.container { max-width: var(--maxw); margin: 0 auto; padding: 1.25rem; }
+.site-header { border-bottom: 1px solid #eee; background: #fff; position: sticky; top: 0; z-index: 10; }
+.brand { font-weight: 800; font-size: 1.25rem; }
+.nav { display: inline-block; margin-left: 1rem; }
+.nav-link { margin-right: 1rem; padding: 0.25rem 0; }
+.nav-link.active { border-bottom: 2px solid #4b2e83; }
+.content h1 { font-size: 2rem; margin-top: 0.25rem; }
+.content img { max-width: 100%; height: auto; }
+pre, code { background: #f8f8f8; border-radius: 6px; padding: 0.2rem 0.35rem; }
+pre { padding: 0.75rem; overflow-x: auto; }
+.post-list { list-style: none; padding: 0; }
+.post-list li { margin: 0 0 1rem 0; }
+.site-footer { border-top: 1px solid #eee; color: #666; }
+
+/* Stronger, page-scoped selector */
+body.home .container.content ul,
+body.home .container.content ol {
+  margin-left: 0.75rem;
+  padding-left: 1.75rem;
+  list-style-position: outside;
+}
+
+body.home .container.content ul ul,
+body.home .container.content ol ol {
+  margin-left: 1rem;
+  padding-left: 1.25rem;
+}

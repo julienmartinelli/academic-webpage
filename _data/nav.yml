@@ -1,0 +1,10 @@
+- name: Home
+  url: /
+- name: Publications
+  url: /publications/
+- name: Misc.
+  url: /misc/
+- name: Teaching
+  url: /teaching/
+# - name: Posts
+#  url: /posts/

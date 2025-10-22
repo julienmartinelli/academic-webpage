@@ -1,0 +1,26 @@
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link rel="stylesheet"
+      href="{{ '/assets/css/style.css' | relative_url }}?v={{ site.time | date: '%s' }}">
+<script>
+  // MathJax v3 config for LaTeX
+  window.MathJax = {
+    tex: {inlineMath: [['$', '$'], ['\\(', '\\)']]},
+    svg: {fontCache: 'global'}
+  };
+</script>
+<script async id="MathJax-script" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+<style id="page-overrides">
+  /* global: indented lists */
+  .container.content ul,
+  .container.content ol {
+    margin-left: 0.75rem !important;
+    padding-left: 1.75rem !important;
+    list-style-position: outside !important;
+  }
+  .container.content ul ul,
+  .container.content ol ol {
+    margin-left: 1rem !important;
+    padding-left: 1.25rem !important;
+  }
+</style>

@@ -1,0 +1,16 @@
+title: "Julien Martinelli 🤯"
+description: "Personal site"
+url: " https://julienmartinelli.github.io"            # set to https://yourname.github.io after pushing
+baseurl: ""        # for user/organization sites keep empty
+markdown: kramdown
+kramdown:
+  input: GFM
+  math_engine: mathjax
+  syntax_highlighter_opts:
+    block:
+      line_numbers: false
+permalink: /:categories/:year/:month/:day/:title/
+collections:
+  posts:
+    output: true
+include: ["_pages"]
