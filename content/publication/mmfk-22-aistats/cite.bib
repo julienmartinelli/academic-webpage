@@ -1,0 +1,15 @@
+@InProceedings{pmlr-v206-mikkola23a,
+  title = 	 {Multi-Fidelity Bayesian Optimization with Unreliable Information Sources},
+  author =       {Mikkola, Petrus and Martinelli, Julien and Filstroff, Louis and Kaski, Samuel},
+  booktitle = 	 {Proceedings of The 26th International Conference on Artificial Intelligence and Statistics},
+  pages = 	 {7425--7454},
+  year = 	 {2023},
+  editor = 	 {Ruiz, Francisco and Dy, Jennifer and van de Meent, Jan-Willem},
+  volume = 	 {206},
+  series = 	 {Proceedings of Machine Learning Research},
+  month = 	 {25--27 Apr},
+  publisher =    {PMLR},
+  pdf = 	 {https://proceedings.mlr.press/v206/mikkola23a/mikkola23a.pdf},
+  url = 	 {https://proceedings.mlr.press/v206/mikkola23a.html},
+  abstract = 	 {Bayesian optimization (BO) is a powerful framework for optimizing black-box, expensive-to-evaluate functions. Over the past decade, many algorithms have been proposed to integrate cheaper, lower-fidelity approximations of the objective function into the optimization process, with the goal of converging towards the global optimum at a reduced cost. This task is generally referred to as multi-fidelity Bayesian optimization (MFBO). However, MFBO algorithms can lead to higher optimization costs than their vanilla BO counterparts, especially when the low-fidelity sources are poor approximations of the objective function, therefore defeating their purpose. To address this issue, we propose rMFBO (robust MFBO), a methodology to make any GP-based MFBO scheme robust to the addition of unreliable information sources. rMFBO comes with a theoretical guarantee that its performance can be bound to its vanilla BO analog, with high controllable probability. We demonstrate the effectiveness of the proposed methodology on a number of numerical benchmarks, outperforming earlier MFBO methods on unreliable sources. We expect rMFBO to be particularly useful to reliably include human experts with varying knowledge within BO processes.}
+}

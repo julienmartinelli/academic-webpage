@@ -38,7 +38,7 @@ links:
 url_code: ""
 url_pdf: ""
 url_slides: "files/curie_bioss_2021.pdf"
-url_video: ""
+url_poster: "files/jobim_2021.png"
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
